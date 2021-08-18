@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+/*font-family: 'Balsamiq Sans', cursive;
+font-family: 'Open Sans', sans-serif;*/
+font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.background{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    
+}
+
+input{
+    font-size: 18px;
+}
+.formbox{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin: 6% auto;
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.label{
+    text-align: center;
+    width:100%;
+    top: 5%;
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    color: blue;
+    font-family: 'Balsamiq Sans', cursive !important;
+
+}
+.label1{
+    text-align: center;
+    width:100%;
+    font-size: 18px;
+    color: black;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.inputfield{
+    left: 40%;
+    width: 60%;
+    padding: 10px;
+    margin: 5px 0;
+    margin-bottom : 5%;
+    border-left: 0;
+    border-right: 0;
+    border-top: 0;
+    border-bottom: 1px solid #999;
+    outline: none;
+    background: transparent;
+}
+
+    .submitbutton{
+    margin-left: 10%;
+    width: 45%;
+    padding: 10px 30px;
+    cursor: pointer;
+    margin-top:5%;
+    background:  background;
+    border: 0;
+    outline: none;
+    border-radius: 30px;
+    color: white;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Mar, 2020, 1:59:23 AM
+    Author     : Delphin Jhon
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Mar, 2020, 11:04:19 AM
+    Author     : Delphin Jhon
+*/
+

@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+/*.inputfield:hover{*/
+    /*background-color: #808080;*/
+    /*color: white;*/
+    /*cursor: pointer;*/
+    /*border-radius: 20px;*/ 
+    
+    .background{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right,#000000,#000000);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    
+}
+
+.formbox{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin: 6% auto;
+    background: white;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0px #000000;
+}
+.buttonbox1{
+  position: absolute;
+  top: 34%;
+  left: 50%;
+  width: 50%;
+  height: 13%;
+  transform: translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%);
+  background: linear-gradient(to right,black,bisque);
+  color: bisque;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+.buttonbox2{
+  position: absolute;
+  top: 46%;
+  left: 50%;
+  width: 15%;
+  height: 9%;
+  transform: translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%);
+  background: linear-gradient(to right,black,bisque);
+  color: bisque;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+
+
+.buttonbox3{
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  width: 15%;
+  height: 9%;
+  transform: translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%);
+  background: linear-gradient(to right,black,bisque);
+  color: bisque;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+
+.buttonbox1:hover{
+    background: #000000;
+    
+}
+.buttonbox2:hover{
+    background: #000000;
+}
+    .buttonbox3:hover{
+    background: #000000;}
+    
+    .buttonbox4:hover{
+    background: #000000;}
+    
+    
+
+
+.label{
+    position: absolute;
+    top: 5%;
+    left: 25%;
+    font-size: 35px;
+    font-family: cursive;
+    color: darkred;
+}
+.label2{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    font-size: 15px;
+    
+    font-family: cursive;
+    color: #999;
+}
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19 Mar, 2020, 1:03:20 AM
+    Author     : Delphin Jhon
+*/
+

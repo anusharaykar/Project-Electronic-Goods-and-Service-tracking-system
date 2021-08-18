@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+/*.inputfield:hover{*/
+    /*background-color: #808080;*/
+    /*color: white;*/
+    /*cursor: pointer;*/
+    /*border-radius: 20px;*/ 
+    
+    .background{
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to right,#000000,#000000);
+    background-position: center;
+    background-size: cover;
+    position: absolute;
+    
+}
+
+.formbox{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    margin: 10% auto;
+    background: white;
+    padding: 10px;
+    border-radius: 100px;
+    box-shadow: 0 0 10px 0px #000000;
+}
+.buttonbox1{
+  position: absolute;
+  top: 22.3%;
+  left: 50%;
+  width: 48%;
+  height: 13%;
+  transform: translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%);
+  background: linear-gradient(to right,black,bisque);
+  color: bisque;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+.buttonbox2{
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  width: 15%;
+  height: 8%;
+  transform: translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%);
+  background: linear-gradient(to right,black,bisque);
+  color: bisque;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+.buttonbox5{
+  position: absolute;
+  top: 70.7%;
+  left: 50%;
+  width: 15%;
+  height: 8%;
+  transform: translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%);
+  background: linear-gradient(to right,black,bisque);
+  color: bisque;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+.buttonbox5:hover{
+    background: #000000;
+    
+}
+.label{
+    size: 15px;
+    top: 6%;
+    left: 28.5%;
+    font-family: fantasy;
+    font-size: 35px;
+    color: darkred;
+    
+    position: absolute;
+}
+
+.buttonbox1:hover{
+    background: #000000;
+    
+}
+.buttonbox2:hover{
+    background: #000000;
+}
+.buttonbox3{
+  position: absolute;
+  top:53.4%;
+  left: 50%;
+  width: 15%;
+  height: 8%;
+  transform: translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%);
+  background: linear-gradient(to right,black,bisque);
+  color: bisque;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+.buttonbox3:hover{
+    background: #000000;
+}
+
+.buttonbox4{
+  position: absolute;
+  top: 62%;
+  left: 50%;
+  width: 15%;
+  height: 8.5%;
+  transform: translate(-50%,-50%);
+  -ms-transform:translate(-50%,-50%);
+  background: linear-gradient(to right,black,bisque);
+  color: bisque;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  
+}
+.buttonbox4:hover{
+    background: #000000;
+}
